@@ -49,7 +49,6 @@ The provided code performs the following tasks:
 python text_analysis.ipynb
 
 
-
 # Joke Generation using GPT-2
 
 This project showcases the generation of jokes using the GPT-2 model. GPT-2, developed by OpenAI, is a powerful language model capable of generating human-like text. In this project, we fine-tune the GPT-2 model on a dataset of jokes to create new, humorous content.
